@@ -1,0 +1,15 @@
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\bin\Debug\net8.0\using Asynchronous programming.exe
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\bin\Debug\net8.0\using Asynchronous programming.deps.json
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\bin\Debug\net8.0\using Asynchronous programming.runtimeconfig.json
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\bin\Debug\net8.0\using Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\bin\Debug\net8.0\using Asynchronous programming.pdb
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.AssemblyInfoInputs.cache
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.AssemblyInfo.cs
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.csproj.CoreCompileInputs.cache
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.sourcelink.json
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\refint\using Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.pdb
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\using Asynchronous programming.genruntimeconfig.cache
+D:\subject's note\net centric\program\lab_07\using Asynchronous programming\obj\Debug\net8.0\ref\using Asynchronous programming.dll

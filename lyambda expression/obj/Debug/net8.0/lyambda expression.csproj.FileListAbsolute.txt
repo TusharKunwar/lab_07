@@ -1,0 +1,15 @@
+D:\subject's note\net centric\program\lab_07\lyambda expression\bin\Debug\net8.0\lyambda expression.exe
+D:\subject's note\net centric\program\lab_07\lyambda expression\bin\Debug\net8.0\lyambda expression.deps.json
+D:\subject's note\net centric\program\lab_07\lyambda expression\bin\Debug\net8.0\lyambda expression.runtimeconfig.json
+D:\subject's note\net centric\program\lab_07\lyambda expression\bin\Debug\net8.0\lyambda expression.dll
+D:\subject's note\net centric\program\lab_07\lyambda expression\bin\Debug\net8.0\lyambda expression.pdb
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.AssemblyInfoInputs.cache
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.AssemblyInfo.cs
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.csproj.CoreCompileInputs.cache
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.sourcelink.json
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.dll
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\refint\lyambda expression.dll
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.pdb
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\lyambda expression.genruntimeconfig.cache
+D:\subject's note\net centric\program\lab_07\lyambda expression\obj\Debug\net8.0\ref\lyambda expression.dll

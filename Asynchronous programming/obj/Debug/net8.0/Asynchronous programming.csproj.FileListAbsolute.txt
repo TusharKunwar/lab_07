@@ -1,0 +1,15 @@
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\bin\Debug\net8.0\Asynchronous programming.exe
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\bin\Debug\net8.0\Asynchronous programming.deps.json
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\bin\Debug\net8.0\Asynchronous programming.runtimeconfig.json
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\bin\Debug\net8.0\Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\bin\Debug\net8.0\Asynchronous programming.pdb
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.AssemblyInfoInputs.cache
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.AssemblyInfo.cs
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.csproj.CoreCompileInputs.cache
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.sourcelink.json
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\refint\Asynchronous programming.dll
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.pdb
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\Asynchronous programming.genruntimeconfig.cache
+D:\subject's note\net centric\program\lab_07\Asynchronous programming\obj\Debug\net8.0\ref\Asynchronous programming.dll

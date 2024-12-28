@@ -1,0 +1,15 @@
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\bin\Debug\net8.0\finding rollno greater than 10 using lyambda.exe
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\bin\Debug\net8.0\finding rollno greater than 10 using lyambda.deps.json
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\bin\Debug\net8.0\finding rollno greater than 10 using lyambda.runtimeconfig.json
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\bin\Debug\net8.0\finding rollno greater than 10 using lyambda.dll
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\bin\Debug\net8.0\finding rollno greater than 10 using lyambda.pdb
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.AssemblyInfoInputs.cache
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.AssemblyInfo.cs
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.csproj.CoreCompileInputs.cache
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.sourcelink.json
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.dll
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\refint\finding rollno greater than 10 using lyambda.dll
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.pdb
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\finding rollno greater than 10 using lyambda.genruntimeconfig.cache
+D:\subject's note\net centric\program\lab_07\finding rollno greater than 10 using lyambda\obj\Debug\net8.0\ref\finding rollno greater than 10 using lyambda.dll
